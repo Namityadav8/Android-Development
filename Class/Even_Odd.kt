@@ -14,3 +14,4 @@ fun main() {
     println("Sum of even numbers: $sumEven")
     println("Sum of odd numbers: $sumOdd")
 }
+
